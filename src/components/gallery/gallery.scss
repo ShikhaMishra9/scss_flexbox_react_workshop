@@ -1,0 +1,10 @@
+.gallery {
+  border: 1px solid red;
+  ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  }
+
+}
